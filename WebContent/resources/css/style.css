@@ -1,0 +1,119 @@
+.error{color :red}
+.success{color:green}
+
+.heading{
+	margin-top : 0px;
+	margin-left:0px;
+	margin-right : 0px;
+	margin-bottom :0px;
+	color: #ffffff;
+	background-color: #00509f;
+	text-align: center;
+	padding: 0px;
+    border:0px;
+    relative:0px;
+    border-radius: 10px;
+    font-size: 7em;
+}
+
+h3{
+		text-align: center;
+}
+
+
+
+.options {
+		text-align:center;	
+}	
+
+h2{
+	color: #ff8040;
+}
+
+/* #formReg{ */
+/* 	display : inline; */
+/* } */
+
+.form{
+	margin : 1%;
+	font-weight : bold;
+	color : #00008a;
+	border-radius: 2%;
+	background-color: #ebf2f3;
+	text-align: center;
+	border-spacing: 1%;	
+	display:inline-block; 
+	padding :2%;
+	width : 40%;
+	
+
+}
+
+div.formHolder{
+	width  : 95%;
+	text-align: center;
+}
+
+body{
+	background-image:url("");
+	font-family: "Calibri", Times, serif;
+}
+
+
+.button{
+	font-size:12pt;
+	color:#ff8000;
+	background-color:#ffff00;
+	border:1px solid #ff8000;
+	padding:3px;
+	margin-bottom:30px;
+	width : 90%;
+	margin: auto;
+	font-weight: bold;
+	height : 1000%;
+}
+
+.button:hover{
+	color : #ffff00;
+	background-color: #ff8000;
+}
+
+input{
+	border-radius: 4px;
+	border:1px solid #80bfe6;
+	width: 100%;
+	height : 30px;
+}
+
+input:hover{
+	border:1px solid #ff8000;
+}
+
+input label{
+	text-align : left
+}
+
+div.navigation{
+	float:left; 
+	margin:15px; 
+	height: 500%;
+	line-height: 300%;
+	min-height: 100%;
+	display: block;
+	z-index: 1;
+	background-color: white:
+}
+
+/* ul a{ */
+/* 	display: block; */
+/*     width: 60px; */
+/* } */
+
+.centered{
+	text-align: center;	
+}
+
+table th td{
+  border-collapse: collapse;
+  border: 1px solid black;
+}
